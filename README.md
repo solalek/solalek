@@ -23,7 +23,7 @@
             </ul>
         </td>
         <td>
-            <img src="https://tenor.com/view/yetopen-gif-27266616" width="220" alt="gopher exercising" />
+            <img src="./assets/linux.gif" width="220" alt="linux typing" />
         </td>
     </tr>
 </table>
