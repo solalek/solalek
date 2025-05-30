@@ -22,6 +22,9 @@
                 <li>💼 Looking for full-time opportunities</li>
             </ul>
         </td>
+        <td>
+            <img src="https://tenor.com/view/yetopen-gif-27266616" width="220" alt="gopher exercising" />
+        </td>
     </tr>
 </table>
 
