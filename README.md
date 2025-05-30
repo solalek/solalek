@@ -26,6 +26,8 @@
     </tr>
 </table>
 
+<hr />
+
 <div>
     <img src="https://tryhackme-badges.s3.amazonaws.com/SolAlek.png" alt="Your Image Badge" />
 </div>
