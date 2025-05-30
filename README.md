@@ -25,3 +25,7 @@
         </td>
     </tr>
 </table>
+
+<div>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4368395" style='border:none;'></iframe>
+</div>
