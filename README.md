@@ -15,7 +15,7 @@
             <h3>About me:</h3>
             <ul>
                 <li>📍 Based in Kazakhstan, Almaty</li>
-                <li>👨‍🎓 First-year Bachelor’s student in Cyber Security at NARXOZ University</li>
+                <li>👨‍🎓 Second-year Bachelor’s student in Cyber Security at NARXOZ University</li>
                 <li>🐧 Exploring GNU/Linux and Windows system administration</li>
                 <li>🧪 Experimenting with DevOps</li>
                 <li>🚩 CTF player</li>
